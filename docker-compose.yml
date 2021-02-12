@@ -1,0 +1,12 @@
+version: '3'
+services:
+  node:
+    build: ./node/
+    image: gensin-node
+    hostname: gensin-node
+    container_name: gensin-node
+    working_dir: /gensin/node
+    volumes:
+      - ./src:/gensin/node
+      - ./clasp/.clasprc.json:/root/.clasprc.json
+    tty: true

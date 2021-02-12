@@ -1,0 +1,337 @@
+{
+    "☆5 風鷹剣": {
+        "1": {
+            "normal": {
+                "offensive_power_percent": 20.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 200.0
+            },
+            "special_2": {}
+        },
+        "2": {
+            "normal": {
+                "offensive_power_percent": 25.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 230.0
+            },
+            "special_2": {}
+        },
+        "3": {
+            "normal": {
+                "offensive_power_percent": 30.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 260.0
+            },
+            "special_2": {}
+        },
+        "4": {
+            "normal": {
+                "offensive_power_percent": 35.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 290.0
+            },
+            "special_2": {}
+        },
+        "5": {
+            "normal": {
+                "offensive_power_percent": 40.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 320.0
+            },
+            "special_2": {}
+        }
+    },
+    "☆5 天空の刃": {
+        "1": {
+            "normal": {
+                "critical_percent": 4.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 20.0
+            },
+            "special_2": {}
+        },
+        "2": {
+            "normal": {
+                "critical_percent": 5.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 25.0
+            },
+            "special_2": {}
+        },
+        "3": {
+            "normal": {
+                "critical_percent": 6.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 30.0
+            },
+            "special_2": {}
+        },
+        "4": {
+            "normal": {
+                "critical_percent": 7.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 35.0
+            },
+            "special_2": {}
+        },
+        "5": {
+            "normal": {
+                "critical_percent": 8.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 40.0
+            },
+            "special_2": {}
+        }
+    },
+    "☆5 斬山の刃": {
+        "1": {
+            "normal": {
+                "shield_strengthening_percent": 20.0
+            },
+            "duplicate": {
+                "offensive_power_percent": 4.0
+            },
+            "special_1": {
+                "offensive_power_percent": 4.0
+            },
+            "special_2": {}
+        },
+        "2": {
+            "normal": {
+                "shield_strengthening_percent": 25.0
+            },
+            "duplicate": {
+                "offensive_power_percent": 5.0
+            },
+            "special_1": {
+                "offensive_power_percent": 5.0
+            },
+            "special_2": {}
+        },
+        "3": {
+            "normal": {
+                "shield_strengthening_percent": 30.0
+            },
+            "duplicate": {
+                "offensive_power_percent": 6.0
+            },
+            "special_1": {
+                "offensive_power_percent": 6.0
+            },
+            "special_2": {}
+        },
+        "4": {
+            "normal": {
+                "shield_strengthening_percent": 35.0
+            },
+            "duplicate": {
+                "offensive_power_percent": 7.0
+            },
+            "special_1": {
+                "offensive_power_percent": 7.0
+            },
+            "special_2": {}
+        },
+        "5": {
+            "normal": {
+                "shield_strengthening_percent": 40.0
+            },
+            "duplicate": {
+                "offensive_power_percent": 8.0
+            },
+            "special_1": {
+                "offensive_power_percent": 8.0
+            },
+            "special_2": {}
+        }
+    },
+    "☆4 匣中龍吟": {
+        "1": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 20.0
+            },
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 24.0
+            },
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 28.0
+            },
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 32.0
+            },
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 36.0
+            },
+            "special_2": {}
+        }
+    },
+    "☆4 笛の剣": {
+        "1": {
+            "normal": {},
+            "duplicate": {
+                "weapon_add_damage_percent_1": 100.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {
+                "weapon_add_damage_percent_1": 125.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {
+                "weapon_add_damage_percent_1": 150.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {
+                "weapon_add_damage_percent_1": 175.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {
+                "weapon_add_damage_percent_1": 200.0
+            },
+            "special_1": {},
+            "special_2": {}
+        }
+    },
+    "☆4 旧貴族長剣": {
+        "1": {
+            "normal": {},
+            "duplicate": {
+                "critical_percent": 8.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {
+                "critical_percent": 10.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {
+                "critical_percent": 12.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {
+                "critical_percent": 14.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {
+                "critical_percent": 16.0
+            },
+            "special_1": {},
+            "special_2": {}
+        }
+    },
+    "テスト6": {},
+    "テスト": {
+        "1": {
+            "normal": {
+                "hp_fixed_value": 10.0
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        },
+        "2": {
+            "normal": {
+                "hp_fixed_value": 20.0
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        },
+        "3": {
+            "normal": {
+                "hp_fixed_value": 30.0
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        },
+        "4": {
+            "normal": {
+                "hp_fixed_value": 40.0
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        },
+        "5": {
+            "normal": {
+                "hp_fixed_value": 50.0
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        }
+    }
+}

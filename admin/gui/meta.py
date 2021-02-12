@@ -1,0 +1,51 @@
+meta_name_dict = {
+    "HP上限": "base_hp_upper_limit",
+    "基礎攻撃力": "base_offensive_power",
+    "基礎防御力": "base_defense_power",
+    "HP_数": "hp_fixed_value",
+    "HP_%": "hp_percent",
+    "攻撃力_数": "offensive_power_fixed_value",
+    "攻撃力_%": "offensive_power_percent",
+    "防御力_数": "defense_power_fixed_value",
+    "防御力_%": "defense_power_percent",
+    "元素熟知": "failiarity_with_elements",
+    "会心率": "critical_percent",
+    "会心ダメージ": "critical_damage_percent",
+    "元素チャージ効率": "element_charge_efficiency_percent",
+    "クールタイム短縮": "cool_time_reduction",
+    "シールド強化": "shield_strengthening_percent",
+    "炎元素ダメージ": "flame_element_damage_percent",
+    "水元素ダメージ": "water_element_damage_percent",
+    "草元素ダメージ": "grass_element_damage_percent",
+    "雷元素ダメージ": "lightning_element_damage_percent",
+    "風元素ダメージ": "wind_element_damage_percent",
+    "氷元素ダメージ": "ice_element_damage_percent",
+    "岩元素ダメージ": "rock_element_damage_percent",
+    "物理ダメージ": "physical_damage_percent",
+    "通常攻撃ダメージ": "normal_attack_damage_percent",
+    "重撃ダメージ": "heavy_hit_damage_percent",
+    "落下攻撃ダメージ": "fall_attack_damage_percent",
+    "元素スキルダメージ": "elemental_skill_damage_percent",
+    "元素爆発ダメージ": "elemental_explosion_damage_percent",
+    "ダメージバフ": "damage_buff_percent",
+    "拡散ダメージ": "spread_damage_percent",
+    "過負荷ダメージ": "overload_damage_percent",
+    "燃焼ダメージ": "burning_damage_percent",
+    "感電ダメージ": "electric_shock_damage_percent",
+    "超電導ダメージ": "superconducting_damage_percent",
+    "蒸発反応": "evaporation_reaction_percent",
+    "溶解反応": "dissolution_reaction_percent",
+    "氷砕きダメージ": "ice_crushing_damage_percent",
+    "武器追加ダメージ1": "weapon_add_damage_percent_1",
+    "武器追加ダメージ2": "weapon_add_damage_percent_2"
+}
+
+meta_name_reverse_dict = {v: k for k, v in meta_name_dict.items()}
+
+meta_weapon_type_dict = {
+    "短剣": "sword",
+    "両手剣": "claymore",
+    "長柄武器": "polearm",
+    "法器": "catalyst",
+    "弓": "bow"
+}

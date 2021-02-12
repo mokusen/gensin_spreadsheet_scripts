@@ -1,0 +1,15 @@
+# vscode
+.vscode
+
+# clasp
+clasp/
+
+# node
+.clasp.json
+
+# python
+gensin-venv/
+__pycache__
+
+# memo
+document.md

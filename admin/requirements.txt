@@ -1,0 +1,5 @@
+autopep8==1.5.5
+pep8==1.7.1
+pycodestyle==2.6.0
+PySimpleGUI==4.34.0
+toml==0.10.2
