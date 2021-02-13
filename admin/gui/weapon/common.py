@@ -44,11 +44,9 @@ def weapon_register(weapon_json_path: str, input_values: dict, start_diff_value:
         # 武器Jsonを取得する
         weapon_file_path = f"{weapon_json_path}/{weapon_type_meta_name}.json"
         weapon_json_dict = handle_json.read(weapon_file_path)
-        print(weapon_json_dict, flush=True)
 
         # 取得データを更新辞書に登録する
         for range_key, range_list in range_dict.items():
-            print(f"Range Type: {range_key}", flush=True)
             # 入力エリアの3行分登録する
             for effect_index in range_list:
                 # 効果タイプが入力されているときだけ処理を行う
@@ -68,7 +66,6 @@ def weapon_register(weapon_json_path: str, input_values: dict, start_diff_value:
             sg.popup("効果を入力してください。")
             is_valid = True
         else:
-            print(update_weapon_dict, flush=True)
             update_weapon_json_dict(weapon_file_path, weapon_json_dict, update_weapon_dict)
     return is_valid
 
@@ -131,5 +128,4 @@ def check_input_confirm(check_flg: bool, msg: str, title: str) -> bool:
     return_flg = True
     if check_flg:
         return_flg = False if sg.popup_ok_cancel(msg, title=title) == "Cancel" else True
-    print(return_flg, flush=True)
     return return_flg

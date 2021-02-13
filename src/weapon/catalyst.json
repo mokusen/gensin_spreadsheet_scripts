@@ -1,1 +1,613 @@
-{}
+{
+    "☆5 天空の巻": {
+        "1": {
+            "normal": {
+                "all_element_damage_percent": 12.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 160.0
+            },
+            "special_2": {}
+        },
+        "2": {
+            "normal": {
+                "all_element_damage_percent": 15.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 200.0
+            },
+            "special_2": {}
+        },
+        "3": {
+            "normal": {
+                "all_element_damage_percent": 18.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 240.0
+            },
+            "special_2": {}
+        },
+        "4": {
+            "normal": {
+                "all_element_damage_percent": 21.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 280.0
+            },
+            "special_2": {}
+        },
+        "5": {
+            "normal": {
+                "all_element_damage_percent": 24.0
+            },
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 320.0
+            },
+            "special_2": {}
+        }
+    },
+    "☆5 四風原典": {
+        "1": {
+            "normal": {},
+            "duplicate": {
+                "all_element_damage_percent": 8.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {
+                "all_element_damage_percent": 10.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {
+                "all_element_damage_percent": 12.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {
+                "all_element_damage_percent": 14.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {
+                "all_element_damage_percent": 16.0
+            },
+            "special_1": {},
+            "special_2": {}
+        }
+    },
+    "☆5 浮世の掟": {
+        "1": {
+            "normal": {
+                "shield_strengthening_percent": 20.0
+            },
+            "duplicate": {
+                "offensive_power_percent": 4.0
+            },
+            "special_1": {
+                "offensive_power_percent": 4.0
+            },
+            "special_2": {}
+        },
+        "2": {
+            "normal": {
+                "shield_strengthening_percent": 25.0
+            },
+            "duplicate": {
+                "offensive_power_percent": 5.0
+            },
+            "special_1": {
+                "offensive_power_percent": 5.0
+            },
+            "special_2": {}
+        },
+        "3": {
+            "normal": {
+                "shield_strengthening_percent": 30.0
+            },
+            "duplicate": {
+                "offensive_power_percent": 6.0
+            },
+            "special_1": {
+                "offensive_power_percent": 6.0
+            },
+            "special_2": {}
+        },
+        "4": {
+            "normal": {
+                "shield_strengthening_percent": 35.0
+            },
+            "duplicate": {
+                "offensive_power_percent": 7.0
+            },
+            "special_1": {
+                "offensive_power_percent": 7.0
+            },
+            "special_2": {}
+        },
+        "5": {
+            "normal": {
+                "shield_strengthening_percent": 40.0
+            },
+            "duplicate": {
+                "offensive_power_percent": 8.0
+            },
+            "special_1": {
+                "offensive_power_percent": 8.0
+            },
+            "special_2": {}
+        }
+    },
+    "☆4 昭心": {
+        "1": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 240.0
+            },
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 270.0
+            },
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 300.0
+            },
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 330.0
+            },
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 360.0
+            },
+            "special_2": {}
+        }
+    },
+    "☆4 流浪楽章": {
+        "1": {
+            "normal": {
+                "offensive_power_percent": 60.0,
+                "all_element_damage_percent": 48.0,
+                "failiarity_with_elements": 240.0
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        },
+        "2": {
+            "normal": {
+                "offensive_power_percent": 75.0,
+                "all_element_damage_percent": 60.0,
+                "failiarity_with_elements": 300.0
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        },
+        "3": {
+            "normal": {
+                "offensive_power_percent": 90.0,
+                "all_element_damage_percent": 72.0,
+                "failiarity_with_elements": 360.0
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        },
+        "4": {
+            "normal": {
+                "offensive_power_percent": 105.0,
+                "all_element_damage_percent": 84.0,
+                "failiarity_with_elements": 420.0
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        },
+        "5": {
+            "normal": {
+                "offensive_power_percent": 120.0,
+                "all_element_damage_percent": 96.0,
+                "failiarity_with_elements": 480.0
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        }
+    },
+    "☆4 旧貴族秘法禄": {
+        "1": {
+            "normal": {},
+            "duplicate": {
+                "critical_percent": 8.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {
+                "critical_percent": 10.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {
+                "critical_percent": 12.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {
+                "critical_percent": 14.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {
+                "critical_percent": 16.0
+            },
+            "special_1": {},
+            "special_2": {}
+        }
+    },
+    "☆4 黒岩の緋玉": {
+        "1": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 12.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 15.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 18.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 21.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 24.0
+            },
+            "special_1": {},
+            "special_2": {}
+        }
+    },
+    "☆4 万国諸海の図譜": {
+        "1": {
+            "normal": {},
+            "duplicate": {
+                "all_element_damage_percent": 8.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {
+                "all_element_damage_percent": 10.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {
+                "all_element_damage_percent": 12.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {
+                "all_element_damage_percent": 14.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {
+                "all_element_damage_percent": 16.0
+            },
+            "special_1": {},
+            "special_2": {}
+        }
+    },
+    "☆4 匣中日月": {
+        "1": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "elemental_skill_damage_percent": 20.0,
+                "elemental_explosion_damage_percent": 20.0
+            },
+            "special_2": {
+                "normal_attack_damage_percent": 20.0
+            }
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "elemental_skill_damage_percent": 25.0,
+                "elemental_explosion_damage_percent": 25.0
+            },
+            "special_2": {
+                "normal_attack_damage_percent": 25.0
+            }
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "elemental_skill_damage_percent": 30.0,
+                "elemental_explosion_damage_percent": 30.0
+            },
+            "special_2": {
+                "normal_attack_damage_percent": 30.0
+            }
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "elemental_skill_damage_percent": 35.0,
+                "elemental_explosion_damage_percent": 35.0
+            },
+            "special_2": {
+                "normal_attack_damage_percent": 35.0
+            }
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "elemental_skill_damage_percent": 40.0,
+                "elemental_explosion_damage_percent": 40.0
+            },
+            "special_2": {
+                "normal_attack_damage_percent": 40.0
+            }
+        }
+    },
+    "☆4 冬忍びの実": {
+        "1": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 80.0
+            },
+            "special_2": {
+                "weapon_add_damage_percent_2": 200.0
+            }
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 95.0
+            },
+            "special_2": {
+                "weapon_add_damage_percent_2": 240.0
+            }
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 110.0
+            },
+            "special_2": {
+                "weapon_add_damage_percent_2": 280.0
+            }
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 125.0
+            },
+            "special_2": {
+                "weapon_add_damage_percent_2": 320.0
+            }
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 140.0
+            },
+            "special_2": {
+                "weapon_add_damage_percent_2": 360.0
+            }
+        }
+    },
+    "☆3 翡玉法珠": {
+        "1": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 20.0
+            },
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 25.0
+            },
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 30.0
+            },
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 35.0
+            },
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 40.0
+            },
+            "special_2": {}
+        }
+    },
+    "☆3 魔導緒論": {
+        "1": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 12.0
+            },
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 15.0
+            },
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 18.0
+            },
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 21.0
+            },
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 24.0
+            },
+            "special_2": {}
+        }
+    },
+    "☆3 特級の宝玉": {
+        "1": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 12.0
+            },
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 14.0
+            },
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 16.0
+            },
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 18.0
+            },
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 20.0
+            },
+            "special_2": {}
+        }
+    }
+}

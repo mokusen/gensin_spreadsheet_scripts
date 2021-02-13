@@ -291,11 +291,154 @@
             "special_2": {}
         }
     },
-    "テスト6": {},
-    "テスト": {
+    "☆4 黒岩の長剣": {
+        "1": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 12.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 15.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 18.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 21.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 24.0
+            },
+            "special_1": {},
+            "special_2": {}
+        }
+    },
+    "☆4 斬岩・試作": {
+        "1": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 4.0,
+                "defense_power_percent": 4.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 5.0,
+                "defense_power_percent": 5.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 6.0,
+                "defense_power_percent": 6.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 7.0,
+                "defense_power_percent": 7.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {
+                "offensive_power_percent": 8.0,
+                "defense_power_percent": 8.0
+            },
+            "special_1": {},
+            "special_2": {}
+        }
+    },
+    "☆4 鉄蜂の刺し": {
+        "1": {
+            "normal": {},
+            "duplicate": {
+                "damage_buff_percent": 6.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {
+                "damage_buff_percent": 7.5
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {
+                "damage_buff_percent": 9.0
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {
+                "damage_buff_percent": 10.5
+            },
+            "special_1": {},
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {
+                "damage_buff_percent": 12.0
+            },
+            "special_1": {},
+            "special_2": {}
+        }
+    },
+    "☆4 降臨の剣": {
+        "1": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 200.0
+            },
+            "special_2": {
+                "offensive_power_fixed_value": 66.0
+            }
+        }
+    },
+    "☆4 黒剣": {
         "1": {
             "normal": {
-                "hp_fixed_value": 10.0
+                "normal_attack_damage_percent": 20.0,
+                "heavy_hit_damage_percent": 20.0
             },
             "duplicate": {},
             "special_1": {},
@@ -303,7 +446,8 @@
         },
         "2": {
             "normal": {
-                "hp_fixed_value": 20.0
+                "normal_attack_damage_percent": 25.0,
+                "heavy_hit_damage_percent": 25.0
             },
             "duplicate": {},
             "special_1": {},
@@ -311,7 +455,8 @@
         },
         "3": {
             "normal": {
-                "hp_fixed_value": 30.0
+                "normal_attack_damage_percent": 30.0,
+                "heavy_hit_damage_percent": 30.0
             },
             "duplicate": {},
             "special_1": {},
@@ -319,7 +464,8 @@
         },
         "4": {
             "normal": {
-                "hp_fixed_value": 40.0
+                "normal_attack_damage_percent": 35.0,
+                "heavy_hit_damage_percent": 35.0
             },
             "duplicate": {},
             "special_1": {},
@@ -327,10 +473,226 @@
         },
         "5": {
             "normal": {
-                "hp_fixed_value": 50.0
+                "normal_attack_damage_percent": 40.0,
+                "heavy_hit_damage_percent": 40.0
             },
             "duplicate": {},
             "special_1": {},
+            "special_2": {}
+        }
+    },
+    "☆4 腐植の剣": {
+        "1": {
+            "normal": {
+                "elemental_skill_damage_percent": 16.0,
+                "elemental_explosion_critical_percent": 6.0
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        },
+        "2": {
+            "normal": {
+                "elemental_skill_damage_percent": 20.0,
+                "elemental_explosion_critical_percent": 7.5
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        },
+        "3": {
+            "normal": {
+                "elemental_skill_damage_percent": 24.0,
+                "elemental_explosion_critical_percent": 9.0
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        },
+        "4": {
+            "normal": {
+                "elemental_skill_damage_percent": 28.0,
+                "elemental_explosion_critical_percent": 10.5
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        },
+        "5": {
+            "normal": {
+                "elemental_skill_damage_percent": 32.0,
+                "elemental_explosion_critical_percent": 12.0
+            },
+            "duplicate": {},
+            "special_1": {},
+            "special_2": {}
+        }
+    },
+    "☆3 チ虎魚の刀": {
+        "1": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 240.0
+            },
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 280.0
+            },
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 320.0
+            },
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 360.0
+            },
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "weapon_add_damage_percent_1": 400.0
+            },
+            "special_2": {}
+        }
+    },
+    "☆3 黎明の神剣": {
+        "1": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "critical_percent": 14.0
+            },
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "critical_percent": 17.5
+            },
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "critical_percent": 21.0
+            },
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "critical_percent": 24.5
+            },
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "critical_percent": 28.0
+            },
+            "special_2": {}
+        }
+    },
+    "☆3 冷刃": {
+        "1": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 12.0
+            },
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 15.0
+            },
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 18.0
+            },
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 21.0
+            },
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "damage_buff_percent": 24.0
+            },
+            "special_2": {}
+        }
+    },
+    "☆3 暗鉄剣": {
+        "1": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 20.0
+            },
+            "special_2": {}
+        },
+        "2": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 25.0
+            },
+            "special_2": {}
+        },
+        "3": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 30.0
+            },
+            "special_2": {}
+        },
+        "4": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 35.0
+            },
+            "special_2": {}
+        },
+        "5": {
+            "normal": {},
+            "duplicate": {},
+            "special_1": {
+                "offensive_power_percent": 40.0
+            },
             "special_2": {}
         }
     }

@@ -2,7 +2,7 @@
 H_ONE_SIZE = (10, 1)
 H_TWO_SIZE = (10, 1)
 H_THREE_SIZE = (5, 1)
-H_FOUR_SIZE = (25, 1)
+H_FOUR_SIZE = (30, 1)
 H_FIVE_SIZE = (5, 1)
 H_SIX_SIZE = (15, 1)
 

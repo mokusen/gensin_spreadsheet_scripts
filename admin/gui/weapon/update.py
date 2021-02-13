@@ -2,6 +2,7 @@ from .. import (
     handle_json,
     meta
 )
+from ..win_print import win_print
 from . import (
     common
 )
@@ -52,17 +53,17 @@ def open(weapon_json_path: str, default_weapon_info_dict: dict = {}):
             else:
                 update_search_weapon_info_list(window, weapon_json_path, values)
         elif event == '連続更新（入力欄初期化）':
-            print(values, flush=True)
+            win_print(values)
             if common.check_input_confirm(values[76], "更新処理を行います。\n更新後、入力欄は初期化されますがよろしいですか。", "更新チェック画面"):
                 is_valid = weapon_update(weapon_json_path, values)
                 if not is_valid:
                     common.input_area_all_clear(window, values.keys())
         elif event == '更新（入力欄初期化なし）':
-            print(values, flush=True)
+            win_print(values)
             if common.check_input_confirm(values[76], "更新処理を行いますがよろしいですか。", "更新チェック画面"):
                 weapon_update(weapon_json_path, values)
         elif event == '更新して終了（メイン画面へ戻る）':
-            print(values, flush=True)
+            win_print(values)
             if common.check_input_confirm(values[76], "更新処理を行います。\n更新後、メイン画面へ戻りますがよろしいですか。", "更新チェック画面"):
                 is_valid = weapon_update(weapon_json_path, values)
                 if not is_valid:
@@ -164,8 +165,6 @@ def update_search_weapon_info_list(window: sg.Window, weapon_json_path: str, inp
     weapon_file_path = f"{weapon_json_path}/{weapon_type_meta_name}.json"
     weapon_json_dict = handle_json.read(weapon_file_path)
     if input_values[1] in weapon_json_dict.keys():
-        print(weapon_json_dict[input_values[1]], flush=True)
-
         # ここで出力エリアを初期化しておく
         common.input_area_all_clear(window, list(input_values.keys())[2:-1])
 

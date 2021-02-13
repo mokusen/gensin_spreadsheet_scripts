@@ -14,6 +14,7 @@ meta_name_dict = {
     "元素チャージ効率": "element_charge_efficiency_percent",
     "クールタイム短縮": "cool_time_reduction",
     "シールド強化": "shield_strengthening_percent",
+    "元素ダメージ": "all_element_damage_percent",
     "炎元素ダメージ": "flame_element_damage_percent",
     "水元素ダメージ": "water_element_damage_percent",
     "草元素ダメージ": "grass_element_damage_percent",
@@ -24,6 +25,7 @@ meta_name_dict = {
     "物理ダメージ": "physical_damage_percent",
     "通常攻撃ダメージ": "normal_attack_damage_percent",
     "重撃ダメージ": "heavy_hit_damage_percent",
+    "狙い撃ちダメージ": "charge_attack_damage_percent",
     "落下攻撃ダメージ": "fall_attack_damage_percent",
     "元素スキルダメージ": "elemental_skill_damage_percent",
     "元素爆発ダメージ": "elemental_explosion_damage_percent",
@@ -37,7 +39,8 @@ meta_name_dict = {
     "溶解反応": "dissolution_reaction_percent",
     "氷砕きダメージ": "ice_crushing_damage_percent",
     "武器追加ダメージ1": "weapon_add_damage_percent_1",
-    "武器追加ダメージ2": "weapon_add_damage_percent_2"
+    "武器追加ダメージ2": "weapon_add_damage_percent_2",
+    "元素爆発会心率": "elemental_explosion_critical_percent"
 }
 
 meta_name_reverse_dict = {v: k for k, v in meta_name_dict.items()}

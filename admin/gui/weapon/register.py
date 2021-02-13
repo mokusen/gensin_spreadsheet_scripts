@@ -1,7 +1,7 @@
 from .. import (
     meta
 )
-
+from ..win_print import win_print
 from . import (
     common,
     index
@@ -49,19 +49,19 @@ def open(weapon_json_path: str):
         if event is None:
             break
         elif event == '武器一覧表示':
-            index.open(weapon_json_path, False)
+            index.open(weapon_json_path, True)
         elif event == '連続登録（入力欄初期化）':
-            print(values, flush=True)
+            win_print(values)
             if common.check_input_confirm(values[74], "登録処理を行います。\n登録後、入力欄は初期化されますがよろしいですか。", "登録チェック画面"):
                 is_valid = common.weapon_register(weapon_json_path, values)
                 if not is_valid:
                     common.input_area_all_clear(window, values.keys())
         elif event == '登録（入力欄初期化なし）':
-            print(values, flush=True)
+            win_print(values)
             if common.check_input_confirm(values[74], "登録処理を行いますがよろしいですか。", "登録チェック画面"):
                 common.weapon_register(weapon_json_path, values)
         elif event == '登録して終了（メイン画面へ戻る）':
-            print(values, flush=True)
+            win_print(values)
             if common.check_input_confirm(values[74], "登録処理を行います。\n登録後、メイン画面へ戻りますがよろしいですか。", "登録チェック画面"):
                 is_valid = common.weapon_register(weapon_json_path, values)
                 if not is_valid:
